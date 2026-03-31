@@ -6,38 +6,28 @@
 
 ---
 
-## 🛡️ What I Do
-I build security labs, detect threats, and train AI models to catch hackers.
-I love turning complex cybersecurity problems into working, demonstrable solutions.
+# 👋 Hi, I'm Noel Nivedita Jayakumar
 
----
+🎓 MS Cybersecurity @ Saint Louis University (GPA 3.8)
+🔐 Aspiring SOC Analyst | Security Engineer
+📍 Saint Louis, MO
 
-## 🔥 Featured Projects
+## 🛠️ What I Work With
+- SIEM: Splunk, Microsoft Sentinel, KQL
+- Tools: Wireshark, Nmap, Nessus, Metasploit, Burp Suite
+- Code: Python, Bash, SQL
+- Cloud: Microsoft Azure, AWS
 
-| Project | What it does | Tools Used |
-|---|---|---|
-| 🏠 [Home SOC Lab](#) | Detects brute-force & PowerShell attacks in real time | Splunk, Kali, Metasploit |
-| 🤖 [AI Intrusion Detection](#) | ML model that classifies network attacks with 99% accuracy | Python, scikit-learn, CIDDS-001 |
-| 🔍 [Vulnerability Assessment Lab](#) | Found & fixed 30+ CVEs on real vulnerable machines | Nessus, CVSS, NIST |
-
----
-
-## 🧰 My Toolbox
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat&logo=splunk&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-
----
+## 🚀 Featured Projects
+| Project | What it Does |
+|---|---|
+| [AI/ML Models for Intrusion Detection in Hybrid Cloud Environments](link) | Detects network attacks with 99% accuracy using ML |
+| [Home SOC Lab](link) | Real Splunk SIEM with brute-force detection rules |
+| [Vulnerability Assessment Lab](link) | 30+ CVEs found and fixed using Nessus |
 
 ## 📜 Certifications
-- 🏅 CompTIA Security+ (SY0-701) — Nov 2025
-- 🏅 Red Hat System Administration I — Dec 2023
-- 🏅 Google Foundations of Cybersecurity — Jul 2023
+- ✅ CompTIA Security+ (SY0-701)
+- ✅ Red Hat System Administration I
+- ✅ Google Cybersecurity Foundations
 
----
-
-## 📬 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-noelnivedita16-blue?logo=linkedin)](https://linkedin.com/in/noelnivedita16)
-[![Email](https://img.shields.io/badge/Email-noelnivedita.jayakumar@slu.edu-red?logo=gmail)](mailto:noelnivedita.jayakumar@slu.edu)
+📫 Reach me: noelnivedita.jayakumar@slu.edu
