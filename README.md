@@ -1,13 +1,5 @@
 # 👋 Hi, I'm Noel Nivedita Jayakumar
 
-🎓 MS Cybersecurity @ Saint Louis University (GPA 3.8) | Graduating May 2026  
-🔍 Aspiring SOC Analyst | Threat Detection | Incident Response | Digital Forensics  
-📍 Saint Louis, MO
-
----
-
-# 👋 Hi, I'm Noel Nivedita Jayakumar
-
 🎓 MS Cybersecurity @ Saint Louis University (GPA 3.8)
 🔐 Aspiring SOC Analyst | Security Engineer
 📍 Saint Louis, MO
