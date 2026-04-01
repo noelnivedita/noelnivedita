@@ -37,6 +37,6 @@ These competitions have helped me build a strong problem-solving mindset and app
 
 I also contribute to cybersecurity awareness initiatives and student-led activities, collaborating with peers and continuously improving my technical and analytical skills.
 
-##📫 Reach me: noelnivedita.jayakumar@slu.edu
+## 📫 Contact me: noelnivedita.jayakumar@slu.edu
 
 🚀 Always learning. Always hacking (ethically).
