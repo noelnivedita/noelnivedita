@@ -22,4 +22,21 @@
 - ✅ Red Hat System Administration I
 - ✅ Google Cybersecurity Foundations
 
-📫 Reach me: noelnivedita.jayakumar@slu.edu
+##🔐 Cybersecurity Community & CTF Involvement
+
+I actively engage with the cybersecurity community through volunteering and hands-on participation in major industry events like DEF CON and BSides Las Vegas. These experiences have given me exposure to real-world security challenges, tools, and cutting-edge research in the field.
+
+Alongside volunteering, I regularly participate in Capture The Flag (CTF) competitions, where I solve challenges across domains such as:
+
+Web Exploitation
+Network Security
+Cryptography
+Digital Forensics
+
+These competitions have helped me build a strong problem-solving mindset and apply theoretical concepts in practical, high-pressure scenarios.
+
+I also contribute to cybersecurity awareness initiatives and student-led activities, collaborating with peers and continuously improving my technical and analytical skills.
+
+##📫 Reach me: noelnivedita.jayakumar@slu.edu
+
+🚀 Always learning. Always hacking (ethically).
