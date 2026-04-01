@@ -22,16 +22,16 @@
 - ✅ Red Hat System Administration I
 - ✅ Google Cybersecurity Foundations
 
-##🔐 Cybersecurity Community & CTF Involvement
+## 🔐 Cybersecurity Community & CTF Involvement
 
 I actively engage with the cybersecurity community through volunteering and hands-on participation in major industry events like DEF CON and BSides Las Vegas. These experiences have given me exposure to real-world security challenges, tools, and cutting-edge research in the field.
 
 Alongside volunteering, I regularly participate in Capture The Flag (CTF) competitions, where I solve challenges across domains such as:
 
-Web Exploitation
-Network Security
-Cryptography
-Digital Forensics
+- Web Exploitation
+- Network Security
+- Cryptography
+- Digital Forensics
 
 These competitions have helped me build a strong problem-solving mindset and apply theoretical concepts in practical, high-pressure scenarios.
 
